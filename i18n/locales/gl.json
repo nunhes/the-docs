@@ -1,0 +1,77 @@
+{
+  "common": {
+    "or": "ou",
+    "error": {
+      "title": "Páxina non atopada",
+      "description": "Sentímolo, pero non se puido atopar esta páxina."
+    }
+  },
+  "docs": {
+    "copy": {
+      "page": "Copiar páxina",
+      "link": "Copiar páxina Markdown",
+      "view": "Ver como Markdown",
+      "gpt": "Abrir en ChatGPT",
+      "claude": "Abrir en Claude"
+    },
+    "links": "Comunidade",
+    "toc": "Nesta páxina",
+    "menu": "Menú",
+    "report": "Reportar un problema",
+    "edit": "Editar esta páxina"
+  },
+  "logo": {
+    "copyLogo": "Copiar logo",
+    "copyWordmark": "Copiar wordmark",
+    "downloadLogo": "Descargar logo",
+    "downloadWordmark": "Descargar wordmark",
+    "brandAssets": "Recursos da marca",
+    "logoCopied": "Logotipo copiado",
+    "wordmarkCopied": "Wordmark copiado",
+    "logoDownloaded": "Logo descargado",
+    "wordmarkDownloaded": "Wordmark descargado",
+    "copyLogoFailed": "Fallo ao copiar o logo",
+    "copyWordmarkFailed": "Fallo ao copiar o wordmark"
+  },
+  "assistant": {
+    "title": "Pregutar a AI",
+    "placeholder": "Fai unha pregunta...",
+    "tooltip": "Fai unha pregunta á IA",
+    "tryAsking": "Tenta facer unha pregunta",
+    "askAnything": "Pregunta calquera cousa...",
+    "clearChat": "Limpar o chat",
+    "close": "Pechar",
+    "expand": "Expandir",
+    "collapse": "Contraer",
+    "askMeAnything": "Pregunta calquera cousa",
+    "askMeAnythingDescription": "Obtén axuda para navegar pola documentación, comprender conceptos e atopar respostas.",
+    "faq": "FAQ",
+    "chatCleared": "O chat bórrase ao actualizar",
+    "lineBreak": "Salto de liña",
+    "explainWithAi": "Explicar con IA",
+    "toolListPages": "Páxinas de documentación listadas",
+    "toolReadPage": "Ler",
+    "tools": {
+      "searching": "Buscando",
+      "searched": "Buscado",
+      "reading": "Lendo",
+      "read": "Lido",
+      "finding": "Atopando",
+      "found": "Atopado",
+      "opening": "Abrindo",
+      "opened": "Aberto",
+      "generating": "Xerando",
+      "generated": "Xerado",
+      "creating": "Creando",
+      "created": "Creado"
+    },
+    "loading": {
+      "thinking": "Pensando...",
+      "searching": "Buscando na documentación",
+      "reading": "Lendo a documentación",
+      "analyzing": "Analizando o contido",
+      "finding": "Atopando a mellor resposta",
+      "finished": "Fontes usadas"
+    }
+  }
+}
